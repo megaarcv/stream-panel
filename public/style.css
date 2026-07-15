@@ -54,3 +54,21 @@ body{
     padding:20px;
     border-radius:10px;
 }
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+button{
+    padding:10px 20px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    background:#2563eb;
+    color:white;
+}
+
+input{
+    color:white;
+}
